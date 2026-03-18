@@ -1,4 +1,6 @@
-# 🎮 Rock Paper Scissors (Python)
+# 🎮 Rock Paper Scissors Game
+
+Built using Python 🐍
 
 A simple command-line Rock Paper Scissors game built using Python.
 
